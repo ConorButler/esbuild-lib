@@ -2,4 +2,4 @@ Small esbuild task following [this guide](https://12ft.io/proxy?q=http://medium.
 
 Builds from src/index.ts and outputs the script into lib/index.html, displaying the message:
 
-<img width="641" alt="Screenshot 2022-08-25 at 15 46 35" src="https://user-images.githubusercontent.com/104009770/187441013-c5a759f7-e2e6-4d92-a06c-4adde29f5cdb.png">
+![Screenshot 2022-08-30 at 13 52 12](https://user-images.githubusercontent.com/104009770/187441383-83fb14db-7868-48e9-b6b3-20806b1714cf.png)
